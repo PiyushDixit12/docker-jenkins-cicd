@@ -11,4 +11,9 @@ public class Demo {
     public String helloWorld() {
         return "Hello, Dockerized Jenkins!";
     }
+
+    @RequestMapping("/demo2")
+    public String helloWorld2() {
+        return "Hello, Dockerized Jenkins 2 !";
+    }
 }
