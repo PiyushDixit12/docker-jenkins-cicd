@@ -12,6 +12,7 @@
 	<artifactId>dockercicd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dockercicd</name>
+	<packaging>war</packaging>
 	<description>learning cicd pipeline using jenkins and docker</description>
 	<url/>
 	<licenses>
